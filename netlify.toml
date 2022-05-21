@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
   to = "https://wirefreehifi.com"
-  status = 301
+  status = 302
   force = true
