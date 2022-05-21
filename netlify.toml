@@ -1,5 +1,5 @@
 [[redirects]]
   from = "*"
-  to = "https://wirefreehifi.com"
+  to = "https://wirefreehifi.com/:splat"
   status = 302
   force = true
